@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rep_1791273324658_kakog",
+    "imageUrl": "/uploads/rep_1791273324658_kakog.jpeg",
+    "imageData": "/uploads/rep_1791273324658_kakog.jpeg",
+    "issueType": "pothole",
+    "description": "A deteriorating pothole with broken asphalt edges and exposed loose gravel on the road surface.",
+    "severity": "medium",
+    "reasoning": "The pothole contains loose stones and uneven depression that pose a risk of tire damage and tripping hazards, requiring prompt maintenance before further erosion occurs.",
+    "location": "scheme 140",
+    "note": "safety threat",
+    "status": "reported",
+    "reportCount": 1,
+    "createdAt": "2026-10-06T07:55:32.787Z",
+    "updatedAt": "2026-10-06T07:55:32.787Z"
+  },
+  {
+    "id": "rep_1791272116284_8u31g",
+    "imageUrl": "/uploads/rep_1791272116284_8u31g.jpeg",
+    "imageData": "/uploads/rep_1791272116284_8u31g.jpeg",
+    "issueType": "damaged_road",
+    "description": "The asphalt roadway has severely deteriorated into numerous large, deep potholes filled with stagnant water across both lanes. The structural integrity of the pavement is extensively compromised, rendering the road barely passable.",
+    "severity": "high",
+    "reasoning": "The density and depth of the water-filled craters present an immediate and severe hazard for vehicular damage, loss of vehicle control, and accidents.",
+    "location": "vijay nagar indore",
+    "note": "safety threat",
+    "status": "reported",
+    "reportCount": 1,
+    "createdAt": "2026-10-06T07:35:42.362Z",
+    "updatedAt": "2026-10-06T07:35:42.362Z"
+  },
+  {
+    "id": "rep_1760084884024_dnhr1",
+    "imageUrl": "/uploads/broken_streetlight.svg",
+    "imageData": "/uploads/broken_streetlight.svg",
+    "issueType": "broken_streetlight",
+    "description": "The protective transparent cover of a street lamp is shattered with jagged edges exposed, showing severe weathering and lichen growth on the housing.",
+    "severity": "high",
+    "reasoning": "The shattered fixture creates a falling debris hazard and leaves internal electrical components vulnerable to weather damage, requiring prompt repair. (Escalated to HIGH priority due to 2 duplicate citizen reports).",
+    "location": "shrinagar extension indore",
+    "note": "safety hazard at night | Additional report note: \"Dangerous dark spot for pedestrians\"",
+    "status": "acknowledged",
+    "reportCount": 2,
+    "createdAt": "2026-10-06T05:48:04.024Z",
+    "updatedAt": "2026-10-06T07:20:55.737Z"
+  }
+]
